@@ -1,0 +1,21 @@
+{
+  "name": "number-to-first-letter",
+  "version": "0.1.0",
+  "description": "This helper convert number to string with first letter",
+  "keywords": [],
+  "author": "Silvestr Baibuz <silvestr-b@yandex.ru>",
+  "license": "MIT",
+  "repository": "Silvestr-b/number-to-first-letter",
+  "bugs": {
+    "url": "https://github.com/Silvestr-b/number-to-first-letter/issues"
+  },
+  "homepage": "https://github.com/Silvestr-b/number-to-first-letter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

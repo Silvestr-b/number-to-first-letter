@@ -1,6 +1,6 @@
 'use strict'
 
-module.exports = (num) => {
+module.exports = num => {
 	const letters = ['a','b','c','d','e','f','g','h','i','j'];
 
 	if(num >= 0 && num <= 9){
